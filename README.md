@@ -3,7 +3,7 @@ This is the official implementation of our proposed HDL:
 
 HDL: Hybrid Deep Learning for the Synthesis of Myocardial Velocity Maps in Digital Twins for Cardiac Analysis
 
-![Overview_of_HDL](./imgs/Fig2.png)
+![Overview_of_HDL](./imgs/fig2.png)
 
 
 
