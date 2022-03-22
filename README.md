@@ -11,8 +11,9 @@ HDL: Hybrid Deep Learning for the Synthesis of Myocardial Velocity Maps in Digit
 
 ## Highlight
 
-- A UNet model for cardiac frame interpolation.
-- A foreground-background generation scheme for cardiac phase images.
+- A UNet model for cardiac frame interpolation
+- A foreground-background generation scheme for cardiac phase images
+- A pipeline for high quality cardiac image synthesis and analysis
 
 
 
@@ -38,7 +39,7 @@ torchvision==0.10.0
 ## Citation
 This repository is based on:
 
-pix2pixHD: Image Restoration Using Swin Transformer ([code](https://github.com/NVIDIA/pix2pixHD) and 
+pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD) and 
 [paper](https://arxiv.org/abs/1711.11585));
 
 
